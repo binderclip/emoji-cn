@@ -13,4 +13,7 @@
 ## refs
 
 - [📙 Emojipedia — 😃 Home of Emoji Meanings 💁👌🎍😍](https://emojipedia.org/)
+- [Unicode Emoji](http://unicode.org/emoji/)
+  - [Unicode Emoji v11.0](https://unicode.org/emoji/charts/index.html)
+    - [Full Emoji List, v11.0](https://unicode.org/emoji/charts/full-emoji-list.html)
 - [项目背景](https://weibo.com/5221042555/Gw1Bc3V62)
