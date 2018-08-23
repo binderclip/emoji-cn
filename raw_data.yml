@@ -1,0 +1,18 @@
+---
+emoji_list:
+  - unicode_escape: U+1F643
+    emoji: 🙃
+    title_en: upside-down face
+    title_zh_gt: 颠倒的脸
+    desc_emojipedia_en: |
+      A face that is upside-down, often representing a sense of silliness or goofiness. Sometimes used as an ambiguous emotion, such as joking or sarcasm.
+
+      Implemented as a flipped version of the slightly smiling face on most platforms.
+
+      Upside-Down Face was approved as part of Unicode 8.0 in 2015 and added to Emoji 1.0 in 2015.
+    desc_emojipedia_zh_gt: |
+      一张倒立的脸，往往代表一种愚蠢或愚蠢的感觉。 有时用作模糊的情感，如开玩笑或讽刺。
+
+      在大多数平台上实现为略微笑脸的翻转版本。
+
+      Upside-Down Face在2015年被批准为Unicode 8.0的一部分，并于2015年添加到Emoji 1.0中。
