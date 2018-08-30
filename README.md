@@ -5,8 +5,9 @@
 ## todo
 
 - [x] 手动翻译第一条
-- [ ] 寻找批量翻译的数据源
-- [ ] 试图批量翻译
+- [x] 寻找批量翻译的数据源
+- [x] ~~试图批量翻译 XXX~~
+- [ ] 翻译 [gingerbeardman/Emojipedia](https://github.com/gingerbeardman/Emojipedia) 中的 `emoji.txt`
 - [ ] 人工校验
 - [ ] 了解相关版权类的内容，更新项目的许可证
 
